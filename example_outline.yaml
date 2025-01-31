@@ -1,0 +1,100 @@
+chapters:
+  - chapter_number: 1
+    title: "The First Line of Code"
+    key_events: |
+      - Dane writes his first successful program
+      - Dane discovers a pattern in stock market data
+      - Dane shares his excitement with a friend
+    character_development: "Dane's passion for coding is introduced. His friend Gary encourages him to keep going."
+    setting: "A cozy home office with a computer and books about programming"
+    tone: "Exciting and hopeful, showing the joy of discovery"
+
+  - chapter_number: 2
+    title: "Building the Basics"
+    key_events: |
+      - Dane learns about machine learning basics
+      - Dane creates a simple prediction model
+      - Dane faces his first programming challenges
+    character_development: "Dane's persistence is shown as he works through beginner mistakes"
+    setting: "Local library and coffee shop where Dane studies"
+    tone: "Encouraging, showing that mistakes are part of learning"
+
+  - chapter_number: 3
+    title: "First Success"
+    key_events: |
+      - Dane's model makes its first correct prediction
+      - Dane celebrates with friends
+      - Dane considers sharing his work
+    character_development: "Dane gains confidence in his abilities"
+    setting: "A casual pizza place with friends"
+    tone: "Triumphant and fun"
+
+  - chapter_number: 4
+    title: "Sharing the Work"
+    key_events: |
+      - Dane presents his project to classmates
+      - Receives helpful feedback
+      - Learns about improving his code
+    character_development: "Dane learns to accept constructive criticism"
+    setting: "A classroom presentation setting"
+    tone: "Nervous but rewarding"
+
+  - chapter_number: 5
+    title: "Improving the Code"
+    key_events: |
+      - Dane refactors his code based on feedback
+      - Learns about clean coding practices
+      - Makes his program more efficient
+    character_development: "Dane grows as a programmer"
+    setting: "Dane's improved home office setup"
+    tone: "Focused and educational"
+
+  - chapter_number: 6
+    title: "First Big Test"
+    key_events: |
+      - Dane tests his program with real data
+      - Faces unexpected results
+      - Learns about debugging
+    character_development: "Dane develops problem-solving skills"
+    setting: "Late night coding session"
+    tone: "Challenging but determined"
+
+  - chapter_number: 7
+    title: "Help from Friends"
+    key_events: |
+      - Dane joins a coding study group
+      - Learns from others' experiences
+      - Makes new programmer friends
+    character_development: "Dane discovers the value of collaboration"
+    setting: "Online coding community and study sessions"
+    tone: "Supportive and community-oriented"
+
+  - chapter_number: 8
+    title: "Building Confidence"
+    key_events: |
+      - Dane teaches others what he's learned
+      - Creates tutorial videos
+      - Starts a programming blog
+    character_development: "Dane becomes a mentor to others"
+    setting: "Various online platforms"
+    tone: "Empowering and sharing knowledge"
+
+  - chapter_number: 9
+    title: "The Big Presentation"
+    key_events: |
+      - Dane presents at a local tech meetup
+      - Receives positive feedback
+      - Gets his first job offer
+    character_development: "Dane's hard work pays off"
+    setting: "Local tech conference"
+    tone: "Exciting and rewarding"
+
+  - chapter_number: 10
+    title: "New Beginnings"
+    key_events: |
+      - Dane starts his first programming job
+      - Applies his skills to real-world problems
+      - Continues learning and growing
+    character_development: "Dane becomes a professional developer"
+    setting: "Startup office environment"
+    tone: "Hopeful and forward-looking"
